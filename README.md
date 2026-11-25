@@ -41,19 +41,4 @@ portfolio web/
 ├── style.css      # Simple, clean, and responsive CSS
 ├── script.js      # Beginner-friendly JavaScript (Theme switch & Form)
 └── README.md      # Project details and step-by-step GitHub deployment guide
-```
 
----
-
-## 🚀 How to Update on GitHub (Step-by-Step)
-
-1. Open your repository on GitHub: `https://github.com/subhydv10/personal-portfolio`
-2. Click **Add file** ➔ **Upload files**.
-3. Press **`Win + R`**, paste:
-   ```text
-   C:\Users\abhay\.gemini\antigravity\scratch\portfolio web
-   ```
-   and press **Enter**.
-4. Drag and drop the updated **`index.html`** and **`README.md`** files into the GitHub upload area.
-5. Scroll down and click the green button: **Commit changes**.
-6. Wait 30 seconds for GitHub Pages to rebuild, and your live site will reflect the changes!
